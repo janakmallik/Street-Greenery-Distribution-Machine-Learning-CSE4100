@@ -1,0 +1,10 @@
+//
+Who lives in greener neighborhoods? The distribution of streetgreenery and its association with residents’ socioeconomic conditionsin Hartford, Connecticut, USA
+
+
+- which includes interstatehighways, state highways, and streets, from the TIGER datasets.
+- A Python script was developed to read the longitude and latitudeof each selected sample site and download the Google Street ViewImages.
+- Therefore, the object-based classification method is more suitablefor green vegetation extraction from GSV images compared withpixel-based methods.
+- 
+
+
