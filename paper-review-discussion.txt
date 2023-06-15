@@ -13,4 +13,11 @@ copy paste
 - Economic status is an indicator of people’s interaction withtheir physical environments, because it affects their capabil-ity to improve their physical environments.
 - 
 
+Statistical analyses wereconducted in three stages. 
+- First, bivariate correlation was used toexplore the associations between the green view index and eachof the social variables at the block group level.
+- Second, an ordinary least square (OLS) multivariate regression was conducted to modelthe relationships between dependent (the green view index) andindependent variables (social variables). Only those independentvariables indicating statistically significant (p < 0.05) correlationswith the green view index were selected for regression analysis.
+	- The final listof the independent variables in the regression model includes percapita income, proportion of owner-occupied units, and proportionof Hispanics.
+- Finally, the spatial autocorrelation of regression residualswas analyzed using the global Moran’s I-statistics to determinewhether the regression results were spatially biased (Landry andChakraborty, 2009).
+	- the spatial weight matrixwas calculated based on the Euclidean distances between cen-troids of block groups.
+
 
