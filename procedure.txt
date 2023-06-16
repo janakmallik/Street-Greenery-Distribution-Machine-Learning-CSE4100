@@ -56,3 +56,31 @@ The study aims to investigate the relationship between street greenery distribut
 
 Note: The specific details and techniques used in each step may vary depending on the available data, software tools, and the researcher's expertise.
 
+
+**important procedure**
+Title: "Analyzing the Correlation between Greenery and Socioeconomic Values Using Machine Learning"
+
+Abstract:
+This thesis aims to investigate the relationship between greenery and socioeconomic values using machine learning techniques. Greenery, including parks, gardens, and open spaces, has been recognized as an important component of urban environments, contributing to various aspects of human well-being. Socioeconomic values, such as income levels, education, and employment, are critical indicators of community prosperity and development. By employing machine learning algorithms, this study seeks to explore the potential correlations between the presence and accessibility of green spaces and socioeconomic factors in urban areas.
+
+Research Objectives:
+1. Evaluate the availability and distribution of green spaces in different urban regions.
+2. Gather socioeconomic data related to income, education, employment, and other relevant indicators.
+3. Apply machine learning algorithms to analyze the relationship between greenery and socioeconomic values.
+4. Identify patterns and trends that emerge from the analysis to gain insights into the correlation.
+5. Provide recommendations for urban planning and policy development based on the findings.
+
+Methodology:
+1. Data collection: Gather geospatial data on green spaces using satellite imagery, maps, and public databases. Collect socioeconomic data from relevant sources such as census data, surveys, and public records.
+2. Data preprocessing: Clean and preprocess the collected data, including spatial data integration and standardization of socioeconomic variables.
+3. Feature engineering: Extract relevant features from the data, such as the proximity of green spaces to residential areas, the size of green spaces, and socioeconomic indicators.
+4. Machine learning analysis: Utilize regression or classification algorithms to model the correlation between greenery and socioeconomic values. Examples of suitable algorithms include linear regression, random forests, or gradient boosting.
+5. Interpretation and visualization: Analyze the model outputs and visualize the results to identify patterns and relationships between greenery and socioeconomic factors.
+6. Policy recommendations: Provide insights and recommendations based on the findings, aiming to guide urban planning and development initiatives.
+
+Expected Results:
+The thesis expects to uncover valuable insights regarding the correlation between greenery and socioeconomic values. Potential outcomes may include the identification of neighborhoods with low access to green spaces but high socioeconomic needs, the quantification of the impact of green spaces on socioeconomic indicators, and the formulation of evidence-based recommendations to enhance the presence and accessibility of greenery in urban areas.
+
+By exploring this topic, the thesis aims to contribute to the growing field of urban planning and sustainable development, emphasizing the importance of incorporating green spaces into urban landscapes for improved socioeconomic outcomes.
+
+
