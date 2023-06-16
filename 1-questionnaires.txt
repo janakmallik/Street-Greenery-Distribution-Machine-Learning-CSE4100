@@ -1,0 +1,4 @@
+- best methodology to detect greenery distribution for residential area
+- best machine learning methodology to detect greenery distribution for residential area
+- what machine learning model would be most suitable for this
+- 
