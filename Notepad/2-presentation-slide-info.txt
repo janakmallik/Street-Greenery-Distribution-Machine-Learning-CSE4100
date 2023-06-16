@@ -26,14 +26,17 @@ Group members' ID,
 #Motivation
 1.The motivation behind this thesis stems from the importance of urban green spaces in enhancing the quality of life and well-being of urban residents.
 
-2.
+2.How greenery is distributed in residential areas, and is it sufficient enough for a stable socio-economic conditions.
 
-3.
+3.Comparing the distribution of greenery with parameters such as property values, thermal comfort, energy consumption, and respiratory diseases.
 
 4.Informing urban planning and policy-making for quality access to green spaces and addressing environmental disparities.
 
 #State-of-the-art or Literature Review
 
 #Research Gap
+1.Limited understanding of street greenery distribution in relation to socioeconomic factors.
+2.Insufficient Integration of Machine Learning, advanced machine learning approach needed.
 
 #Proposed Methodology
+
