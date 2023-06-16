@@ -1,0 +1,39 @@
+"Exploring Street Greenery Distribution to Understand Socio-Economic Situation in Residential and Commercial Areas: A Machine Learning Approach Using Street View and Satellite Imagery."
+
+Our Supervisor,
+Mr. Shoeb Mohammad Shahriar,
+Assistant Professor
+
+Group number: 4411
+
+Group members' ID,
+190204024, Sudeepta Chandra Paul
+190204106, Janak Mallik
+190204092, MD. Habibun Nabi
+190104040, Hasibul Haque
+
+#Introduction
+1.Urban green spaces provide multiple benefits, but absence or unequal access in their distribution raise concerns.
+
+2.This research investigates the correlation between the socio-economic situation and street greenery distribution.
+
+3.Street greenery contributes to neighborhood attractiveness, walkability, creating a peaceful environment and resident well-being.
+
+4.Greenery helps reduce the urban heat island effect, reduce power consumption contributing to a more sustainable urban environment.
+
+5.The goal is to promote greenery and it's equitable access to urban green spaces.
+
+#Motivation
+1.The motivation behind this thesis stems from the importance of urban green spaces in enhancing the quality of life and well-being of urban residents.
+
+2.
+
+3.
+
+4.Informing urban planning and policy-making for quality access to green spaces and addressing environmental disparities.
+
+#State-of-the-art or Literature Review
+
+#Research Gap
+
+#Proposed Methodology
