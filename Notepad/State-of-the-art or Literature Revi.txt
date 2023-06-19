@@ -1,0 +1,67 @@
+State-of-the-art or Literature Review
+
+**paper 01 Title: 
+Who lives in greener neighborhoods? The distribution of street greenery and its association with residents’ socioeconomic conditions in Hartford, Connecticut, USA.
+
+About the Dataset: 
+The dataset used in the thesis consists of Google Street View (GSV) images and census data
+Seven social variables at the block group level were chosen from the 2008-2012 American Community Survey (ACS) data.
+Methodology:
+Collection of Google Street View (GSV) Images.
+Green View Index Calculation and Mapping.
+Extraction of Social Variables from Census Data.
+Result: 
+the green view index values varied from 2.6 to 61.8, with a mean value of 24.4
+
+-----------------------------------------------------------------------------------------------------
+**paper 02 Title: 
+The distribution of greenspace quantity and quality and their association with neighbourhood socioeconomic conditions in Guangzhou, China: A new approach using deep learning method and street view images.
+
+Methodology:
+1.Machine-learning based image segmentation
+2.Fully Convolutional neural network 
+
+dataset:
+attributes of the dataset include street view images of Guangzhou, China.(ADE20K Dataset)
+ 
+Result:
+The accuracy of the FCN-8s was with 0.814 for the training data and 0.811 for the test data in this study.
+-----------------------------------------------------------------------------------------------------
+**paper 03 Title:
+Measuring daily accessed street greenery: A human-scale approach for informing better urban planning practices
+
+Methodology:
+Machine-Learning Based Extraction and Classification of Green View Index, Measuring Street Accessibility and Integration with Visible Street Greenery
+
+dataset:
+The researchers used a dataset called PlacePulse 2.0, which contained 1.1 million images.
+
+Result:
+The results showed an average accuracy of 70.53%.
+------------------------------------------------------------------------------------------------------
+**paper 04 Title:
+Deep Green Diagnostics: Urban Green Space Analysis Using Deep Learning and Drone Images
+
+Methodology:
+a convolutional neural network (CNN) for extracting features from the images and a multilayer perceptron (MLP) acting as a classifier.
+
+dataset:
+The data for the study was collected using a DJI Phantom 4 drone, which captured 9901 aerial images from parks, university campuses, suburban neighbourhoods, and forested areas.
+
+Result:
+The study results showed that the test accuracy, precision, and recall was 72%, while the F1-score was 71%.
+------------------------------------------------------------------------------------------------------
+**paper 05 Title:
+Development of a system for assessing the quality of urban street-level greenery using street view images and deep learning
+
+Methodology:
+Panoramic View Green View Index (PVGVI), Deep Convolutional Neural Network (CNN) using DeepLabV3+.
+
+dataset:
+The research utilized the Cityscapes dataset, comprising recorded street videos from 50 cities, to evaluate their proposed method. For the study area in Suita, Osaka, Japan, a total of 24,920 Google Street View images (1000 × 1000 pixels) were utilized.
+
+Result:
+The research results showed that the proposed method achieved an mIoU of 78.37%, an RMSE of 2.75%, and an MAE of 2.28%
+
+
+
