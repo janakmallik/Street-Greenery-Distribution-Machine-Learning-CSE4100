@@ -9,9 +9,9 @@ uncover relationships between the presence of green spaces and the socio-economi
 # Thesis Procedure
 ## A. Greenery Distribution Detection
 
-need answers for:
-- what parameters we should use for Greenery Distribution Detection, sothat we can compare the distribution with socio-economic factors ingenetic algorithm..?
-- and how we can get these values of distribution..
+    need answers for:
+    - what parameters we should use for Greenery Distribution Detection, so that we can compare the distribution with socio-economic factors in genetic algorithm..?
+    - and how we can get these values of distribution..
 
 ### 1. Data Collection
     - Collecting Satellite imagery of the residential area - Google Earth  
