@@ -1,0 +1,69 @@
+SUNDAY
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10:30 AM - 11:20 AM
+CSE4129 7A04 (AMINUR)
+
+11:20 AM - 12:10 PM
+CSE4125 7A04 (Shejuti)
+
+12:10 PM - 01:00 PM
+CSE4107 7A04 (Al-Mamun)
+
+01:00 PM - 03:30 PM
+CSE4102(B2) 7B05 (Joy)
+
+MONDAY
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+01:00 PM - 03:30 PM
+CSE4102(B1) 7B05 (Joy, TAN)
+
+03:30 PM - 04:20 PM
+IPE4111 7A04 (TBA)
+
+04:20 PM - 05:10 PM
+CSE4101 7A04 (Joy)
+
+05:10 PM - 06:00 PM
+CSE4125 7A04 (Shejuti)
+
+TUESDAY
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+08:00 AM - 10:30 AM
+CSE4126(B1/B2) 7B07 (Shejuti)
+
+10:30 AM - 11:20 AM
+IPE4111 7A03 (TBA)
+
+11:20 AM - 12:10 PM
+CSE4107 7A03 (Al-Mamun)
+
+12:10 PM - 01:00 PM
+CSE4101 7A03 (Joy)
+
+01:00 PM - 03:30 PM
+CSE4108(B1/B2) 7B03 (Al-Mamun, Tanvir)
+
+WEDNESDAY
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+01:00 PM - 01:50 PM
+IPE4111 7A05 (TBA)
+
+01:50 PM - 02:40 PM
+CSE4125 7A05 (Shejuti)
+
+02:40 PM - 03:30 PM
+CSE4129 7A05 (AMINUR)
+
+03:30 PM - 06:00 PM
+CSE4130(B1/B2) 7B06 (AMINUR)
+
+THURSDAY
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10:30 AM - 11:20 AM
+CSE4107 7A05 (Al-Mamun)
+
+11:20 AM - 12:10 PM
+CSE4101 7A05 (Joy)
+
+12:10 PM - 01:00 PM
+CSE4129 7A05 (AMINUR)

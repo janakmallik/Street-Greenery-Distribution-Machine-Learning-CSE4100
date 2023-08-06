@@ -1,0 +1,10 @@
+        "terminal.background": "#000000",
+        "editor.background": "#000000",
+        "activityBar.background": "#000000",
+        // "panel.background": "#000000"
+        // "statusBar.background": "#000000"
+
+
+ctrl + shift + / -> clear terminal
+
+
